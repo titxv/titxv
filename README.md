@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @titxv
+- 👀 I’m interested in Chess, ML/AI
+- 🌱 I’m currently learning Vue, Unity
+- 📫 How to reach me: titxvns@gmail.com
